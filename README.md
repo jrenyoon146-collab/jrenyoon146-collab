@@ -1,5 +1,3 @@
-# Hi there 👋 I'm Yoon Pa Pa Aung
-
 🎓 Third Year Digital Technology Innovation Student
 🏫 Kasem Bundit University
 
