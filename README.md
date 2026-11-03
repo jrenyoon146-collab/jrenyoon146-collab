@@ -1,5 +1,3 @@
-🎓 Third Year Digital Technology Innovation Student
-🏫 Kasem Bundit University
 
 ## About Me
 I am a student who is interested in web development and technology.
