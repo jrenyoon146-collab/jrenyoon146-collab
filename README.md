@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋 I'm Yoon Pa Pa Aung
 
-<!--
-**jrenyoon146-collab/jrenyoon146-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third Year Digital Technology Innovation Student
+🏫 Kasem Bundit University
 
-Here are some ideas to get you started:
+## About Me
+I am a student who is interested in web development and technology.
+I enjoy learning programming and creating websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Skills
+- Python
+- JavaScript
+- HTML
+- CSS
+
+## My Interests
+- Web Development
+- Creating Websites
+- Exploring AI Tools
+
+## My Career Goal
+My goal is to become a web developer.
+I want to improve my programming skills and create useful websites.
+
+## My Learning Plan
+I plan to improve my knowledge of Python, JavaScript, HTML, CSS, databases, and GitHub.
